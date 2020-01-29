@@ -30,6 +30,8 @@ https://kitchenplanner.ikea.com/ca/
 * View items sorted in the default order (the same way as seen in the PDF)
 * **View items sorted by their categories** (e.g. Front covers, Electronics, Drawers)
 * **Price calculation:** Check/uncheck items/groups to recalculate the price of the whole plan
+* **Open any item's product page on IKEA** by double clicking on it
+* Select which table columns are visible
 
 **Price calculator:** Calculate price for custom made wood pieces  
 1. Choose what types you want to calculate (supports front/drawer/side covers, shelves and worktops)
@@ -41,3 +43,29 @@ The price calculator currently works with metric (SI) units only (centimeter, me
 
 
 P.S. How nice it would be if IKEA provided an API for their Kitchen Planner, so the app didn't have to rely on text recognition...
+
+### Gallery
+
+* Hungarian plan - Group View (EN)
+![Image](/screenshots/en_hungarian_plan_group_view.jpg)
+
+* Hungarian plan - Category View (EN)
+![Image](/screenshots/en_hungarian_plan_category_view.jpg)
+
+* British plan - Group View (EN)
+![Image](/screenshots/en_gb_plan_group_view.jpg)
+
+* Price calculator (EN)
+![Image](/screenshots/en_price_calculator.jpg)
+
+* Column visibility settings (EN)
+![Image](/screenshots/en_column_visibility.jpg)
+
+* Hungarian plan - Group View (HU)
+![Image](/screenshots/hun_hungarian_plan_group_view.jpg)
+
+* Hungarian plan - Category View (HU)
+![Image](/screenshots/hun_hungarian_plan_category_view.jpg)
+
+* Price calculator (HU)
+![Image](/screenshots/hun_price_calculator.jpg)
