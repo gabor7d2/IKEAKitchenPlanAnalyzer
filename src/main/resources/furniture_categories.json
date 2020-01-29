@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "floor",
+      "identifiers": [
+        "alapszekrény",
+        "alsószekrény",
+        "srkszkrényváz",
+        "előlap msgthoz",
+        "beépített",
+        "base cabinet",
+        "integrated"
+      ]
+    },
+    {
+      "name": "wall",
+      "identifiers": [
+        "faliszekrény",
+        "wall cab",
+        "wall corner"
+      ]
+    },
+    {
+      "name": "tall",
+      "identifiers": [
+        "mszv",
+        "m szkrv",
+        "felső szekrény",
+        "magasszekrény",
+        "high cab",
+        "top cab"
+      ]
+    },
+    {
+      "name": "cabinet",
+      "identifiers": [
+        "cabinet",
+        "storage"
+      ]
+    },
+    {
+      "name": "other",
+      "identifiers": []
+    }
+  ]
+}

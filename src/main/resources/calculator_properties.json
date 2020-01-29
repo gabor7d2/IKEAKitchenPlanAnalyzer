@@ -1,0 +1,19 @@
+{
+  "types": [
+    {
+      "name": "front_cover"
+    },
+    {
+      "name": "drawer_cover"
+    },
+    {
+      "name": "side_cover"
+    },
+    {
+      "name": "shelf"
+    },
+    {
+      "name": "worktop"
+    }
+  ]
+}

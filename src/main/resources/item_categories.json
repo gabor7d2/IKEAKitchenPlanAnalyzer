@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "name": "floor_casing",
+      "displayOrder": 50,
+      "identifiers": [
+        "alapszekrény",
+        "alsószekrény",
+        "srkszkrényváz",
+        "sarokszekrényváz",
+        "base cabinet",
+        "base corner cab"
+      ],
+      "exceptions": [
+        "polc",
+        "shelf for",
+        "carousel"
+      ]
+    },
+    {
+      "name": "wall_casing",
+      "displayOrder": 51,
+      "identifiers": [
+        "faliszekrény",
+        "wall cab",
+        "wall corner"
+      ],
+      "exceptions": [
+        "polc",
+        "shelf for",
+        "carousel"
+      ]
+    },
+    {
+      "name": "tall_casing",
+      "displayOrder": 52,
+      "identifiers": [
+        "mszv",
+        "m szkrv",
+        "felső szekrény",
+        "magasszekrény",
+        "high cab",
+        "top cab"
+      ],
+      "exceptions": [
+        "polc",
+        "shelf for",
+        "carousel"
+      ]
+    },
+    {
+      "name": "other",
+      "displayOrder": 1000,
+      "identifiers": [
+        "tűzhelyelválasztó",
+        "összekötő sín",
+        "konzol",
+        "separator",
+        "bracket"
+      ],
+      "exceptions": [
+        "konyhaszigethez",
+        "for kitchen island"
+      ]
+    },
+    {
+      "name": "hinge",
+      "displayOrder": 910,
+      "identifiers": [
+        "sarokpánt",
+        "hinge"
+      ]
+    },
+    {
+      "name": "lighting",
+      "displayOrder": 850,
+      "identifiers": [
+        "világít",
+        "LED",
+        "light"
+      ]
+    },
+    {
+      "name": "electronics",
+      "displayOrder": 851,
+      "identifiers": [
+        "vezeték",
+        "távirányitó",
+        "csatlakozókábel",
+        "wireless",
+        "remote",
+        "power supply"
+      ]
+    },
+    {
+      "name": "bumper",
+      "displayOrder": 911,
+      "identifiers": [
+        "ajtó ütköző",
+        "bumper"
+      ]
+    },
+    {
+      "name": "push_opener",
+      "displayOrder": 912,
+      "identifiers": [
+        "érintésre működő ajtónyitó",
+        "ajtónyitó",
+        "push opener"
+      ]
+    },
+    {
+      "name": "appliance",
+      "displayOrder": 801,
+      "identifiers": [
+        "főzőlap",
+        "mosogatógép",
+        "mosógép",
+        "sütő",
+        "mikrohullámú",
+        "páraelszívó",
+        "fagyasztó",
+        "hűtő",
+        "cooktop",
+        "hob",
+        "dishwasher",
+        "oven",
+        "microwave",
+        "fridge",
+        "freezer",
+        "refrigerator",
+        "extractor hood",
+        "washing machine",
+        "range"
+      ],
+      "exceptions": [
+        "front for "
+      ]
+    },
+    {
+      "name": "sink",
+      "displayOrder": 800,
+      "identifiers": [
+        "bépt msgt",
+        "mosogató",
+        "lefolyóelzáró",
+        "csap",
+        "tető",
+        "sink",
+        "lid",
+        "kitchen mixer",
+        "water",
+        "faucet"
+      ],
+      "exceptions": [
+        "cabinet"
+      ]
+    },
+    {
+      "name": "drawer_cover",
+      "displayOrder": 101,
+      "identifiers": [
+        "fiókelőlap",
+        "drawer front"
+      ]
+    },
+    {
+      "name": "front_cover",
+      "displayOrder": 100,
+      "identifiers": [
+        "előlap",
+        "ajtó",
+        "door",
+        "front for "
+      ],
+      "exceptions": [
+        "cabinet"
+      ]
+    },
+    {
+      "name": "side_cover",
+      "displayOrder": 102,
+      "identifiers": [
+        "takarólap",
+        "cover panel"
+      ]
+    },
+    {
+      "name": "shelf",
+      "displayOrder": 200,
+      "identifiers": [
+        "polc",
+        "shelf"
+      ]
+    },
+    {
+      "name": "worktop",
+      "displayOrder": 202,
+      "identifiers": [
+        "munkalap",
+        "worktop",
+        "countertop"
+      ]
+    },
+    {
+      "name": "drawer",
+      "displayOrder": 201,
+      "identifiers": [
+        "fiók",
+        "kihúzh belső kiegészítők",
+        "kihúzh.",
+        "drótkosár",
+        "drawer",
+        "pull-out",
+        "corner hardware",
+        "cleaning interior",
+        "wire basket"
+      ]
+    },
+    {
+      "name": "handle",
+      "displayOrder": 900,
+      "identifiers": [
+        "fogantyú",
+        "handle"
+      ]
+    },
+    {
+      "name": "footing",
+      "displayOrder": 901,
+      "identifiers": [
+        "láb",
+        "lábazat",
+        "támasztókonzol",
+        "leg",
+        "plinth",
+        "toekick",
+        "for kitchen island"
+      ]
+    },
+    {
+      "name": "wall_rails",
+      "displayOrder": 950,
+      "identifiers": [
+        "falisín",
+        "suspension rail"
+      ]
+    }
+  ]
+}
